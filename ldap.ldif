@@ -1,16 +1,16 @@
-dn: dc=bakken,dc=io
-objectClass: top
-objectClass: dcObject
-objectClass: organization
-o: EMEA Greenplum
-dc: emea
-structuralObjectClass: organization
-entryUUID: 8c7d3f54-66c6-103f-90ae-117b3988d012
-creatorsName: cn=Manager,dc=bakken,dc=io
-createTimestamp: 20250114132355Z
-entryCSN: 20250114132355.434748Z#000000#000#000000
-modifiersName: cn=Manager,dc=bakken,dc=io
-modifyTimestamp: 20250114132355Z
+## dn: dc=bakken,dc=io
+## objectClass: top
+## objectClass: dcObject
+## objectClass: organization
+## o: RabbitMQ
+## dc: rmq
+## structuralObjectClass: organization
+## entryUUID: 8c7d3f54-66c6-103f-90ae-117b3988d012
+## creatorsName: cn=Manager,dc=bakken,dc=io
+## createTimestamp: 20250114132355Z
+## entryCSN: 20250114132355.434748Z#000000#000#000000
+## modifiersName: cn=Manager,dc=bakken,dc=io
+## modifyTimestamp: 20250114132355Z
 
 dn: cn=Manager,dc=bakken,dc=io
 objectClass: organizationalRole
